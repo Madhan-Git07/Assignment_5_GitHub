@@ -41,6 +41,14 @@ jupyter notebook HeartDiseasePrediction.ipynb
 3. Model Training and Testing: Includes Decision Trees, Logistic Regression, KNN, MLP, and SVM.
 4. Performance Metrics: Accuracy, precision, recall, F1-score, and confusion matrices.
 
+## Results
+
+•Best Model: Logistic Regression with an accuracy of 91.69%.
+Insights:
+• Mental health issues were slightly more prevalent than physical health issues in the dataset.
+• Sleep time and BMI variability indicated opportunities for further research into lifestyle factors and health outcomes.
+• Class imbalance required targeted strategies like SMOTE and adjusted class weights.
+
 ## Deployment
 
 Currently, the project is designed for local analysis and does not include a deployment component. Future work includes deploying the model via Flask or Django.
@@ -56,4 +64,8 @@ This project is licensed under the MIT License.
 ## Acknowledgment
 
 We would like to thank Durham College for giving us the chance and for supporting this work and professor Ziad Mohammad for helping us with the data set.
+
+
+
+
 
