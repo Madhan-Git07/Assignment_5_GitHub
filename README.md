@@ -24,7 +24,7 @@ Follow the steps below to set up the project environment and reproduce the analy
 
 3. Install the required libraries:
  ```bash
-   pip install -r requirements.txt
+    pip install -r requirements.txt
 
 
 Running the Tests
