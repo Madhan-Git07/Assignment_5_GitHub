@@ -43,7 +43,7 @@ jupyter notebook HeartDiseasePrediction.ipynb
 
 ## Results
 
-Best Model: Logistic Regression with an accuracy of 91.69%.
+**Best Model:** Logistic Regression with an accuracy of 91.69%.
 
 **Insights:**
 
