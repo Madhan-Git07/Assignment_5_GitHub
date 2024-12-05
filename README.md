@@ -20,13 +20,12 @@ Follow the steps below to set up the project environment and reproduce the analy
    git clone https://github.com/yourusername/heart-disease-prediction.git
 
 2.Navigate to the project directory:
-
-cd heart-disease-prediction
- 
+ ```bash
+  cd heart-disease-prediction 
 
 3.Install the required libraries:
-
-pip install -r requirements.txt
+ ```bash
+  pip install -r requirements.txt
 
 
 
