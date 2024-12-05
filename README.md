@@ -13,7 +13,7 @@ Follow the steps below to set up the project environment and reproduce the analy
 - Python 3.8 or higher
 - Jupyter Notebook
 - Required Python libraries: `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`
-
+ 
 ## Installing
 
 1. Clone the repository:
