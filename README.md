@@ -21,14 +21,12 @@ Follow the steps below to set up the project environment and reproduce the analy
 2. Navigate to the project directory:
     ```bash
    cd heart-disease-prediction
-
 3. Install the required libraries:
  ```bash
 pip install -r requirements.txt
 
 
-
-**##Running the Tests**
+Running the Tests
 
 To execute the analysis, open the Jupyter Notebook in the project directory:
 
@@ -47,7 +45,7 @@ Currently, the project is designed for local analysis and does not include a dep
 
 Author
 
-	•	Madan Datta
+Madan Datta
 
 License
 
