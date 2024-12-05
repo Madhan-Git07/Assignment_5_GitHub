@@ -43,8 +43,9 @@ jupyter notebook HeartDiseasePrediction.ipynb
 
 ## Results
 
-•Best Model: Logistic Regression with an accuracy of 91.69%.
-Insights:
+Best Model: Logistic Regression with an accuracy of 91.69%.
+
+**Insights:**
 • Mental health issues were slightly more prevalent than physical health issues in the dataset.
 • Sleep time and BMI variability indicated opportunities for further research into lifestyle factors and health outcomes.
 • Class imbalance required targeted strategies like SMOTE and adjusted class weights.
