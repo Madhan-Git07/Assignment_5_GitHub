@@ -19,13 +19,13 @@ Follow the steps below to set up the project environment and reproduce the analy
    ```bash
    git clone https://github.com/yourusername/heart-disease-prediction.git
 
-2.Navigate to the project directory:
+2. Navigate to the project directory:
  ```bash
-  cd heart-disease-prediction 
+    cd heart-disease-prediction
 
-3.Install the required libraries:
- ```bash
-  pip install -r requirements.txt
+3. Install the required libraries:
+   ```bash
+    pip install -r requirements.txt
 
 
 
