@@ -24,7 +24,6 @@ Follow the steps below to set up the project environment and reproduce the analy
    ```bash
      cd heart-disease-prediction
 
-
 3. Install the required libraries:
    ```bash
    pip install -r requirements.txt
