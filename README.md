@@ -36,10 +36,10 @@ jupyter notebook HeartDiseasePrediction.ipynb
 
 ## Breakdown of Tests
 
-	1.	Data Preprocessing: Handling missing values, feature scaling, and encoding.
-	2.	Exploratory Data Analysis (EDA): Visualizing relationships between variables.
-	3.	Model Training and Testing: Includes Decision Trees, Logistic Regression, KNN, MLP, and SVM.
-	4.	Performance Metrics: Accuracy, precision, recall, F1-score, and confusion matrices.
+1. Data Preprocessing: Handling missing values, feature scaling, and encoding.
+2. Exploratory Data Analysis (EDA): Visualizing relationships between variables.
+3. Model Training and Testing: Includes Decision Trees, Logistic Regression, KNN, MLP, and SVM.
+4. Performance Metrics: Accuracy, precision, recall, F1-score, and confusion matrices.
 
 ## Deployment
 
@@ -55,5 +55,5 @@ This project is licensed under the MIT License.
 
 ## Acknowledgment
 
-We extend our gratitude to Durham College for providing the opportunity and resources for this project.
+We would like to thank Durham College for giving us the chance and for supporting this work and professor Ziad Mohammad for helping us with the data set.
 
