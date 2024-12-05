@@ -33,7 +33,7 @@ To execute the analysis, open the Jupyter Notebook in the project directory:
 
 jupyter notebook HeartDiseasePrediction.ipynb
 
-**##Breakdown of Tests**
+Breakdown of Tests
 
 	1.	Data Preprocessing: Handling missing values, feature scaling, and encoding.
 	2.	Exploratory Data Analysis (EDA): Visualizing relationships between variables.
@@ -46,7 +46,7 @@ Currently, the project is designed for local analysis and does not include a dep
 
 Author
 
-Madan Datta
+	•	Madan Datta
 
 License
 
@@ -55,4 +55,3 @@ This project is licensed under the MIT License.
 Acknowledgment
 
 We extend our gratitude to Durham College for providing the opportunity and resources for this project.
-
